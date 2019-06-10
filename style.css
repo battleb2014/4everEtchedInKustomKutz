@@ -102,6 +102,14 @@ button:hover {
   border: 10px solid lightblue;
 }
 
+.browns {
+  position: absolute;
+  image-orientation: right;
+  width: 50%;
+  height: 500px;
+  border: 10px solid lightblue;
+}
+
 @media only screen and (max-width 768px) {
   width: 100%;
 }
